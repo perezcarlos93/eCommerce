@@ -1,0 +1,23 @@
+.Header {
+	background-color: darkgreen;
+	align-content: center;
+	width: 100%;
+	font-size: 360%;
+}
+
+.link {
+	color: white;
+	text-decoration: none;
+}
+.link:hover {
+	color: white;
+	text-decoration: none;
+}
+#navlink {
+	padding-right: 4vh;
+	align-self: center;
+}
+
+.hello {
+	color: white;
+}
